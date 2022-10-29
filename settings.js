@@ -36,19 +36,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94713166975'] //ur owner number
-global.ownername = "94713166975" //ur owner name
+global.vcardowner = ['94704242076'] //ur owner number
+global.ownername = "94704242076" //ur owner name
 global.ytname = "GihanGamingMan" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94713166975']
-global.ownertag = '94713166975' //ur tag number
-global.botnumber = '94713166975' //Add your Bot Number For Log
+global.owner = ['94704242076']
+global.ownertag = '94704242076' //ur tag number
+global.botnumber = '94704242076' //Add your Bot Number For Log
 global.botname = 'GihanBot-V1' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.ig = "https://youtube.com/c/GihanGamingMan" //your theme url which will be displayed on whatsapp
+global.myweb = "github.com/darkalphaxteam/cyber-x-beta-release" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
