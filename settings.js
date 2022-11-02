@@ -43,7 +43,7 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94704242076']
+global.owner = ['Gihan ama edition']
 global.ownertag = '94704242076' //ur tag number
 global.botnumber = '94704242076' //Add your Bot Number For Log
 global.botname = 'GihanBot-V1' //ur bot name
